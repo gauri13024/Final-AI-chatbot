@@ -36,7 +36,7 @@ Responsive UI with Contextual Styling — includes a farmer-themed background an
 
 **How to Run Locally**
 
-Frontend:
+**Frontend:**
 
 cd client
 
@@ -44,7 +44,7 @@ npm install
 
 npm start
 
-Backend:
+**Backend:**
 
 cd server
 
@@ -52,7 +52,7 @@ npm install
 
 node index.js
 
-.env File (in server directory):
+**.env File (in server directory):**
 
 env
 
