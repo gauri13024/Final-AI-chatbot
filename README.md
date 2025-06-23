@@ -39,16 +39,13 @@ Responsive UI with Contextual Styling — includes a farmer-themed background an
 Frontend:
 
 cd client
-
 npm install
-
 npm start
 
 Backend:
+
 cd server
-
 npm install
-
 node index.js
 
 .env File (in server directory):
